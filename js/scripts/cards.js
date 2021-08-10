@@ -1,6 +1,6 @@
-import {cardVideo} from "/js/templates/card-video.js";
-import {cardVideoSidebar} from "/js/templates/card-video-sidebar.js";
-import {cardData} from "/js/helpers/get-card-data.js";
+import {cardVideo} from "js/templates/card-video.js";
+import {cardVideoSidebar} from "js/templates/card-video-sidebar.js";
+import {cardData} from "js/helpers/get-card-data.js";
 
 const handleRenderCards = () => {
   // Grid de cards
