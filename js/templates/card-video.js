@@ -11,7 +11,7 @@ export const cardVideo = (data) => `
     </div>
     <div class="content">
       <h3 class="title row-text-2">
-        <a href="/video.html">💕 Un video mas en la seccion - Clon Youtube 💕</a>
+        <a href="video.html">💕 Un video mas en la seccion - Clon Youtube 💕</a>
       </h3>
       <a href="#">Gerbo67</a>
       <p class="video-information">
