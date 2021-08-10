@@ -1,5 +1,5 @@
-import {commentTemplate} from "/js/templates/comment.js";
-import {commentData} from "/js/helpers/get-comment-data.js";
+import {commentTemplate} from "/ClonYoutube//js/templates/comment.js";
+import {commentData} from "/ClonYoutube//js/helpers/get-comment-data.js";
 
 const handleRenderComments = () => {
   const commentsGrid = document.getElementById('comments-grid')
